@@ -1,2 +1,2 @@
-# system-contracts
-tyco-system-contracts
+# System-Contracts
+This repository hosts system smart contracts of the Decentraconnect
